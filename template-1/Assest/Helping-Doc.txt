@@ -1,0 +1,51 @@
+OwlCarousel
+https://owlcarousel2.github.io/OwlCarousel2/
+
+slick
+https://github.com/kenwheeler/slick
+http://kenwheeler.github.io/slick/
+
+unitegallery
+https://unitegallery.net/
+
+jPages
+https://luis-almeida.github.io/jPages/
+
+masonry
+https://masonry.desandro.com/
+
+isotope
+https://isotope.metafizzy.co/
+https://isotope.metafizzy.co/layout-modes/masonry.html
+
+Text Styling
+Morphext
+https://morphext.fyianlai.com/
+https://github.com/MrSaints/Morphext/blob/master/index.html
+
+
+Layout
+
+Menu type
+- Avobe banner
+- Avobe banner and sticky
+- Floting on banner on top
+- Floting on banner on top and sticky
+- Below banner
+- Below Banner and sticky
+- Floting on banner on bottom
+- Floting on banner on bottom and sticky
+- Left Side menu
+- Left Side menu sticky
+- Right side Menu
+- Right side Menu sticky
+
+Section Background type
+- Solid Color
+- Images
+- Fixed Image
+- Penoroma Background
+- Video Background
+
+Map type
+http://www.xenopsi.com/
